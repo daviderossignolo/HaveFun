@@ -1,0 +1,12 @@
+fun anna() {
+  A = 3.0/2.0;
+  return A
+}
+
+out(anna())
+
+/* Output:
+ *
+ * "Error....ecc...."  
+ *
+ */

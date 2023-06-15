@@ -1,0 +1,9 @@
+fun f(x) { return 1 }
+
+out(g(0))
+
+/* Output:
+ *
+ * "Error....ecc...."  
+ *
+ */

@@ -1,0 +1,12 @@
+fun f(x, y) { 
+  global t = 3;
+  return y 
+}
+
+out(f(1, 2))
+
+/* Output:
+ *
+ * "Error....ecc...."  
+ *
+ */

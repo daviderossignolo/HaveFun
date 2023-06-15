@@ -1,0 +1,24 @@
+fun AnnaKarenina(x){
+	y = x * x; 
+	${
+	IT'S SHOWTIME
+	  HEY CHRISTMAS TREE a
+	  YOU SET US UP 0.0
+	  GET TO THE CHOPPER a
+	  HERE IS MY INVITATION 4.0
+	  GET UP y
+	  YOU'RE FIRED 2.0
+	  ENOUGH TALK
+	  TALK TO THE HAND a
+	YOU HAVE BEEN TERMINATED
+	}$;
+	return 42
+	}
+
+out(AnnaKarenina(42))
+
+/* Output:
+ * 
+ *"Error....ecc...."  
+ *
+ */

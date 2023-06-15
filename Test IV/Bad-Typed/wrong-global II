@@ -1,0 +1,13 @@
+fun f(x, y) { 
+  return y 
+}
+
+out(f(1, 2));
+global t = 42;
+out(f(3, 4))
+
+/* Output:
+ *
+ * "Error....ecc...."  
+ *
+ */

@@ -1,0 +1,12 @@
+fun factorial(n) {
+  if (n == 0) then { ReT = 1 }
+  else { ReT = factorial(n - 1) * n };
+
+  return ReT
+}
+
+out(factorial(5))
+
+/* Output:
+ * 120
+ */

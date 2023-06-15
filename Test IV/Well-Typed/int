@@ -1,0 +1,10 @@
+fun anna() {
+  A = 3/2;
+  return A
+}
+
+out(anna())
+
+/* Output:
+ * 1
+ */

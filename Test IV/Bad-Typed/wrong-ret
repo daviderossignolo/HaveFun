@@ -1,0 +1,11 @@
+fun const() {
+  return5
+}
+
+out(const())
+
+/* Output:
+ *
+ * "Error....ecc...."  
+ *
+ */
